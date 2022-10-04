@@ -20,7 +20,9 @@ const proConfig =  process.env.DATABASE_URL; //heroku addons
 
 const pool = new Pool({
   connectionString: process.env.NODE_ENV === "production" ? proConfig : devConfig,
-  ssl: process.env.DATABASE_URL ? true : false
+  ssl: {
+    rejectUnauthorized: false
+  }
 });
 
 // the pool will emit an error on behalf of any idle clients
