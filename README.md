@@ -2,16 +2,26 @@
 ##DEMO ACCOUNTS:
 
 Admin: 
-email - test@test.com
-password - testtest
+
+email: test@test.com
+
+password: testtest
+
 
 Project Manager:
+
 email: test2@test.com
+
 password: testtest
 
+
+
 Developer:
+
 email: test2@test.com
+
 password: testtest
+
 
 # Bug Logger: <a href="https://bug-logger-reactstrap.herokuapp.com/" target="_blank">Visit Here</a>
 <a href="https://bug-logger-reactstrap.herokuapp.com/" target="_blank"><img src="https://github.com/PiantaSE/PiantaSE/raw/main/images/bl.gif" /></a>
