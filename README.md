@@ -2,8 +2,8 @@
 ##DEMO ACCOUNTS:
 
 Admin: 
-email: test@test.com
-password: testtest
+email - test@test.com
+password - testtest
 
 Project Manager:
 email: test2@test.com
