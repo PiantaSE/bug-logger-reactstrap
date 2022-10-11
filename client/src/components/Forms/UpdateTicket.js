@@ -187,10 +187,10 @@ const UpdateTicket = (props) => {
                 value={values.priority}
                 onChange={handleChange}
               >
-                <option>low</option>
-                <option>medium</option>
-                <option>high</option>
-                <option>immediate</option>
+                <option>Low</option>
+                <option>Medium</option>
+                <option>High</option>
+                <option>Immediate</option>
               </Input>
             </FormGroup>
           </Col>
@@ -204,11 +204,11 @@ const UpdateTicket = (props) => {
                 value={values.status}
                 onChange={handleChange}
               >
-                <option>new</option>
-                <option>open</option>
-                <option>in progress</option>
-                <option>resolved</option>
-                <option>additional info required</option>
+                <option>New</option>
+                <option>Open</option>
+                <option>In Progress</option>
+                <option>Resolved</option>
+                <option>Additional Info Required</option>
               </Input>
             </FormGroup>
           </Col>

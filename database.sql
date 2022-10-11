@@ -45,7 +45,7 @@ CREATE TABLE tickets (
     type varchar(255),
     status varchar(255),
     time_estimate varchar(255),
-    created_at varchar(255)
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
 CREATE TABLE ticket_history (
