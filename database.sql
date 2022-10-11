@@ -21,7 +21,7 @@ CREATE TABLE comments (
     ticket_id varchar(255),
     author_id varchar(255),
     comment varchar(255),
-    created_at varchar(255)
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
 CREATE TABLE dev_assignments (
