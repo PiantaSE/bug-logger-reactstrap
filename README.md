@@ -26,7 +26,7 @@ password: testtest
 # Bug Logger: <a href="https://bug-logger-reactstrap.herokuapp.com/" target="_blank">Visit Here</a>
 <a href="https://bug-logger-reactstrap.herokuapp.com/" target="_blank"><img src="https://github.com/PiantaSE/PiantaSE/raw/main/images/bl.gif" /></a>
 
-A bug logger app made with PERN stack hosted on Heroku.
+A bug logger app made with PERN stack hosted on Cyclic.
 
 ## Tech used: PostgreSQL, Express.js, React.js, Node.js, Bootstrap.js, JSON Web Token, Bcrypt.js
 
