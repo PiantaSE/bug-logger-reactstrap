@@ -23,6 +23,9 @@ email: test2@test.com
 password: testtest
 
 
+***<strong> Do note that the PostgreSQL database is being hosted on a free cloud provider with limited connections. Multiple refreshes may be required for the app to work!***
+
+
 # Bug Logger: <a href="https://bug-logger-reactstrap.herokuapp.com/" target="_blank">Visit Here</a>
 <a href="https://bug-logger-reactstrap.herokuapp.com/" target="_blank"><img src="https://github.com/PiantaSE/PiantaSE/raw/main/images/bl.gif" /></a>
 
